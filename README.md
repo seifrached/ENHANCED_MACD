@@ -1,3 +1,22 @@
+# 🚨 Trading Alert: Avoid CFDs 🚨
+
+**_Warning_:**  
+Trading Contracts for Difference (CFDs) can be extremely risky. Due to high leverage and volatility, CFDs can expose you to losses that exceed your initial investment—**potentially resulting in the loss of all your money**. 
+
+**🔔 _Recommendation_:**  
+For a safer trading environment, consider trading on **SPOT markets** (such as crypto spot or forex spot) where you are dealing with actual assets. SPOT trading generally involves lower leverage, which may reduce the risk of significant losses.  
+
+**💡 _Reminder_:**  
+- Always use proper risk management techniques.  
+- Only trade with capital you can afford to lose.  
+- Make sure to do thorough research or consult with a qualified financial advisor before making any trading decisions.
+
+**_Disclaimer_:**  
+This alert is provided for informational purposes only and does **not** constitute financial advice.
+
+
+
+
 # ENHANCED MACD
 
 **ENHANCED MACD** is a custom MACD indicator for MetaTrader 4 developed by [Seif Rached](https://github.com/seifrached/). It has been designed to offer enhanced flexibility and dynamic histogram visualization by allowing users to adjust key parameters and selectively display components.
