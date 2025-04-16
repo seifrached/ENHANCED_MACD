@@ -2,6 +2,9 @@
 
 **ENHANCED MACD** is a custom MACD indicator for MetaTrader 4 developed by [Seif Rached](https://github.com/seifrached/). It has been designed to offer enhanced flexibility and dynamic histogram visualization by allowing users to adjust key parameters and selectively display components.
 
+### Image
+![Image](https://github.com/user-attachments/assets/87288329-7b69-43b4-a8c8-2456adddfa6d)
+
 ## Key Features
 
 - **Customizable Parameters:**  
